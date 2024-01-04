@@ -28,3 +28,4 @@ D:\Users\Max\Source\Repos\TicomSys\TicomSys\obj\Debug\net6.0\refint\TicomSys.dll
 D:\Users\Max\Source\Repos\TicomSys\TicomSys\obj\Debug\net6.0\TicomSys.pdb
 D:\Users\Max\Source\Repos\TicomSys\TicomSys\obj\Debug\net6.0\TicomSys.genruntimeconfig.cache
 D:\Users\Max\Source\Repos\TicomSys\TicomSys\obj\Debug\net6.0\ref\TicomSys.dll
+D:\Users\Max\Source\Repos\TicomSys\TicomSys\obj\Debug\net6.0\TicomSys.sourcelink.json
